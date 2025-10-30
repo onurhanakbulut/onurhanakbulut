@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onurhan Akbulut</h1>
-<h3 align="center">A passionate AI and Robotic Engineer from Türkiye</h3>
+<h3 align="center">A passionate AI&ML | Data Scientist from Türkiye</h3>
 
 
 
